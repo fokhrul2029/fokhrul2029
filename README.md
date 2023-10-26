@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Fokhrul Islam
 #### I am a Front-end Developer
-![I am a Front-end Developer](https://media.licdn.com/dms/image/D5616AQH25OEJSPQVJQ/profile-displaybackgroundimage-shrink_350_1400/0/1692938164992?e=1703721600&v=beta&t=RuXKtTtmNq-CklprOiQKFVhmqzIG_AyHfWdccuLHkA8)
+![I am a Front-end Developer](https://drive.google.com/file/d/1jm8C_3GIN5CjACWRTYHyEKIB15Fhoisv/view?usp=drive_link)
 
 I am a front-end web developer. I can provide clean code and pixel-perfect design. I also make the website more & more interactive with web animations. A responsive design makes your website accessible to all users, regardless of their device.
 
