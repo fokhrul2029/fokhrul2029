@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Fokhrul Islam
 #### I am a Front-end Developer
-![I am a Front-end Developer](https://photos.app.goo.gl/GSoU7Ca2eB1YZxGw6)
+
+![I am a Front-end Developer](https://github.com/fokhrul2029/fokhrul2029/assets/105439053/413993b9-e413-41b6-8067-0874b1658ce5)
 
 
 I am a front-end web developer. I can provide clean code and pixel-perfect design. I also make the website more & more interactive with web animations. A responsive design makes your website accessible to all users, regardless of their device.
@@ -15,4 +16,4 @@ Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/fokhrul2029)  
+<!-- ![Profile views](https://gpvc.arturio.dev/https://github.com/fokhrul2029)   -->
