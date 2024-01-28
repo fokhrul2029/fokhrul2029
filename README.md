@@ -1,6 +1,6 @@
 <br />
 <h2 align="center">Hi there 👋, I'm Fokhrul Islam </h2>
-<br /> 
+<br />
 
 <h3 align="center">I am a Front-end Developer</h3>
 <br />
@@ -8,19 +8,34 @@
 ![I am a Front-end Developer](https://github.com/fokhrul2029/fokhrul2029/assets/105439053/413993b9-e413-41b6-8067-0874b1658ce5)
 <br />
 
-<h3>
+<p font="25px">
 I am a front-end web developer. I can provide clean code and pixel-perfect design. I also make the website more & more interactive with web animations. A responsive design makes your website accessible to all users, regardless of their device.
-</h3>
+</p>
 
 <h2>Skills:</h2>
-- HTML
-- CSS
-- JS
-- Bootstrap
-- TailwindCSS
-- DaisyUi
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me: ifokhrul.2029@gmail.com
+
+<ul>
+  <li>HTML</li>
+  <li>
+    CSS
+    <ul>
+      <li>Bootstrap</li>
+      <li>
+        TailwindCss
+        <ul>
+          <li>DaisyUi</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    JavaScript
+    <ul>
+      <li>🌱 I’m currently learning React.js</li>
+    </ul>
+  </li>
+  <li>📫 How to reach me: ifokhrul.2029@gmail.com</li>
+</ul>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fokhrul2029) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/fokhrul2029/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ifokhrul.2029) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ifokhrul.2029/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/fokhrul2029) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://fokhrul2029.netlify.app/)
 
