@@ -1,16 +1,8 @@
-<style>
-    .title{
-        border: 1px solid red ;
-        padding: 10px 30px ;
-        text-align:center ;
-        color:red ;
-        border-radius: 7px ;
-    }
-</style>
+
 
 ### Hi there 👋, I'm Fokhrul Islam <br /><br /><br />
 
-<h1 class="title">Hello World</h1> <br /><br />
+<h1 style="border:1px solid red;padding:20px 50px;">Hello World</h1> <br /><br />
 #### I am a Front-end Developer
 
 ![I am a Front-end Developer](https://github.com/fokhrul2029/fokhrul2029/assets/105439053/413993b9-e413-41b6-8067-0874b1658ce5)
