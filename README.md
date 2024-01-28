@@ -1,6 +1,6 @@
 <br />
 <h2 align="center">Hi there 👋, I'm Fokhrul Islam </h2>
-<br />
+
 
 <h3 align="center">I am a Front-end Developer</h3>
 <br />
@@ -8,7 +8,7 @@
 ![I am a Front-end Developer](https://github.com/fokhrul2029/fokhrul2029/assets/105439053/413993b9-e413-41b6-8067-0874b1658ce5)
 <br />
 
-<p font="25px">
+<p font="25">
 I am a front-end web developer. I can provide clean code and pixel-perfect design. I also make the website more & more interactive with web animations. A responsive design makes your website accessible to all users, regardless of their device.
 </p>
 
